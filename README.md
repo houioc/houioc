@@ -1,9 +1,25 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&idx=2&customColorList=0,2,2,5,30&height=300&section=header&text=H%20O%20U&fontSize=90&fontColor=DFFF00)
+
+<!--
+-color=gradient&customColorList=0,2,2,5,30
+-color=0:EEFF00,100:a82da8
+
+-->
+
 
 
 ### Hi there 👋
+
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+### 🔷PEOPLE🔷
+
+
+
+### 🔷PRODUCT🔷
+
+### 🔷CONTECT🔷
 
 
 <!--
